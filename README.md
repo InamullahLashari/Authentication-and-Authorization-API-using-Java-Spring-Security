@@ -1,0 +1,2 @@
+# Authentication-and-Authorization-API-using-Java-Spring-Security
+This project provides a robust authentication and authorization mechanism for securing your RESTful API, built using Java and Spring Security. It implements user authentication (login) and role-based authorization (access control to different resources), providing security features like JWT (JSON Web Tokens) for stateless authentication.
